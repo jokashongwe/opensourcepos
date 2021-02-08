@@ -133,7 +133,6 @@
 							'name'=>'print_option',
 							'type'=>'radio',
 							'value'=>1,
-							'value'=>1,
 							'checked'=>$item_kit_info->print_option == PRINT_PRICED)
 					); ?> <?php echo $this->lang->line('item_kits_priced_only'); ?>
 				</label>
